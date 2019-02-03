@@ -91,4 +91,6 @@ Concepts:
 
 ---
 
-From here another diagram can be created, showing the four pyramid horizontally aligned, starting with 'alignment' and 2 arrays on x-axis and y-axis. The y-axis represents Time, and the x-axis represents Priority and Focus.
+From here another diagram can be created, showing the four pyramid in detail:
+
+![Pyramids of Humane Technology Details](humanetech-pyramids-of-humane-technology2.png) 
