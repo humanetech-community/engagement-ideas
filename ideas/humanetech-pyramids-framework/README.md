@@ -70,7 +70,7 @@ This message is contained the forum announcement:
 
 The following paragraphs provide a breakdown of each of the pyramids into their constituent levels.
 
-- Note: The Concepts are indicative of combinations that can be derived in various contexts. They are just examples.
+- Note: The Concept and concept keywords are just indicative of possible use in various contexts. Mere examples.
 
 ![Pyramids of Humane Technology Details](humanetech-pyramids-breakdown.png)
 
@@ -83,7 +83,7 @@ Concepts:
 - Technology evolves with humans
 - Technology in service of humanity
 
-| |Level | Topics |
+| |Level | Concept keywords |
 | :---: | :--- | :--- |
 | 1. | **discovery** | knowledge, insights, humane design | 
 | 2. | **adoption** | ethics, best-practices, experience, exemplars | 
@@ -96,7 +96,7 @@ Concepts:
 - From access to interaction
 - From protection to savety
 
-| |Level | Topics |
+| |Level | Concept keywords |
 | :---: | :--- | :--- |
 | 1. | **access** | availability, accessability, structure | 
 | 2. | **protection** | rights, regulation, security, privacy, trust | 
@@ -109,7 +109,7 @@ Concepts:
 - From health to happiness
 - From acceptance to wholesomeness
 
-| |Level | Topics |
+| |Level | Concept keywords |
 | :---: | :--- | :--- |
 | 1. | **health** | mental, physical, social skills | 
 | 2. | **harmony** | balance, inter-personal, social network, diversity, culture | 
@@ -123,7 +123,7 @@ Concepts:
 - From expression to flourishing
 - From direction to the future
 
-| |Level | Topics |
+| |Level | Concept keywords |
 | :---: | :--- | :--- |
 | 1. | **engagement** | participation, freedom of speech, information and expression | 
 | 2. | **expression** | creativity, human values, genuine emotions | 
