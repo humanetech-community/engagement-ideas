@@ -17,11 +17,12 @@
 - _We Are a Solution Focused Team Who Engage Our Challenges With Optimism._
 - _We Are One of Many Cooperating Teams and Actively Embrace New Partnerships._
 
----
 
 ### Announcement
 
-This message contains the forum announcement: [Become a Builder :heart: Help Improve Wellbeing, Freedom and Society](https://community.humanetech.com/t/3322)
+This message contains the forum announcement: 
+
+- [Become a Builder :heart: Help Improve Wellbeing, Freedom and Society](https://community.humanetech.com/t/3322)
 
 ### New Forum Header: 
 
