@@ -13,14 +13,14 @@
 
 ### Philosophy
 
-- _We Are For Everyone and Your Participating Should Be Fun and Rewarding!_
+- _We Are For Everyone and Your Participation Should Be Fun and Rewarding!_
 - _We Are a Solution Focused Team Who Engage Our Challenges With Optimism._
 - _We Are One of Many Cooperating Teams and Actively Embrace New Partnerships._
 
 
 ### Announcement
 
-This message contains the forum announcement: 
+This message is contained the forum announcement: 
 
 - [Become a Builder :heart: Help Improve Wellbeing, Freedom and Society](https://community.humanetech.com/t/3322)
 
