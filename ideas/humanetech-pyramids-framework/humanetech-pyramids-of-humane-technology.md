@@ -31,7 +31,6 @@ After a brainstorm I'd like to propose the following framework that offers both 
 - Each pyramid has 3 levels, Maslow-like, where level 3 represents the top
 
 ### Pyramid of Technology Alignment
----
 
 Concepts:
 
@@ -47,7 +46,6 @@ Concepts:
 | 3. | **evolution** | innovation, sustainability, expansion, immersion | 
 
 ### Pyramid of Society
----
 
 Concepts:
 
@@ -61,7 +59,6 @@ Concepts:
 | 3. | **safety** | interaction, communication, behavior, civility |
 
 ### Pyramid of Wellbeing
----
 
 Concepts:
 
@@ -75,7 +72,6 @@ Concepts:
 | 3. | **happiness** | wholesomeness, acceptance, inclusiveness |
 
 ### Pyramid of Freedom
----
 
 Concepts:
 
@@ -93,4 +89,10 @@ Concepts:
 
 From here another diagram can be created, showing the four pyramid in detail:
 
-![Pyramids of Humane Technology Details](humanetech-pyramids-of-humane-technology2.png) 
+![Pyramids of Humane Technology Details](humanetech-pyramids-of-humane-technology2.png)
+
+## Humane Tech Community overview
+
+All in all this is the complete diagram (1200 x 330 px) that provides the overview:
+
+![Pyramids of Humane Technology Details](humanetech-community-overview.png)
