@@ -1,5 +1,33 @@
 # Humane Tech Community Overview
 
+## Community principles
+
+### Vision
+
+- _Ubiquitous Humane Technology that Stimulates Humans to Flourish and Humanity to Thrive._
+
+### Mission
+
+- _We Promote Solutions that Improve Wellbeing, Freedom and Society._
+- _We Discover, Address and Help Eradicate The Harms of Technology._
+
+### Philosophy
+
+- _We Are For Everyone and Your Participating Should Be Fun and Rewarding!_
+- _We Are a Solution Focused Team Who Engage Our Challenges With Optimism._
+- _We Are One of Many Cooperating Teams and Actively Embrace New Partnerships._
+
+---
+
+### Announcement
+
+This message contains the forum announcement: [Become a Builder :heart: Help Improve Wellbeing, Freedom and Society](https://community.humanetech.com/t/3322)
+
+### New Forum Header: 
+
+>**Welcome to Humane Tech Community!**    We promote  [_Embracing of Humane Technology So That Humans Can Flourish And Humanity Can Thrive._](https://community.humanetech.com/t/3322)
+
+
 <br/>
 
 ![Pyramids of Humane Technology](humanetech-community-overview.png)
@@ -33,6 +61,8 @@
 - The others are regular shaped, narrowing, as they work towards an elusive goal
 
 - Each pyramid has 3 levels, Maslow-like, where level 3 represents the top
+
+- The anology to 'pyramid building' is used to explain community concepts and principles.
 
 ## Breakdown structure
 
