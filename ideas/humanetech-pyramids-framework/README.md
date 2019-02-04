@@ -27,14 +27,15 @@ This message contains the forum announcement: [Become a Builder :heart: Help Imp
 
 >**Welcome to Humane Tech Community!**    We promote  [_Embracing of Humane Technology So That Humans Can Flourish And Humanity Can Thrive._](https://community.humanetech.com/t/3322)
 
+## Pyramids of Humane Technology model
+
+### Overview
 
 <br/>
 
 ![Pyramids of Humane Technology](humanetech-community-overview.png)
 
 <br/>
-
-## Pyramids of Humane Technology model
 
 ### Considerations
 
