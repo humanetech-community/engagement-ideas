@@ -1,12 +1,14 @@
-# Proposal
+# Humane Tech Community Overview
 
-After a brainstorm I'd like to propose the following framework that offers both a more detailed breakdown of the focus areas, as well as a way to elaborate on methodologies and strategy for moving forward.
+![Pyramids of Humane Technology](humanetech-community-overview.png)
 
-## The Pyramids of Humane Technology
+<br/>
 
-![Pyramids of Humane Technology](humanetech-pyramids-of-humane-technology.png) 
+## Pyramids of Humane Technology model
 
 ### Considerations
+
+![Pyramids of Humane Technology](humanetech-pyramids-model.png)
 
 - There are 2 sweet spots that we are pursuing:
   1. **Humane Technology** as the sweet spot of technology innovation
@@ -29,6 +31,14 @@ After a brainstorm I'd like to propose the following framework that offers both 
 - The others are regular shaped, narrowing, as they work towards an elusive goal
 
 - Each pyramid has 3 levels, Maslow-like, where level 3 represents the top
+
+## Breakdown structure
+
+The following paragraphs provide a breakdown of each of the pyramids into their constituent levels.
+
+- Note: The Concepts are indicative of combinations that can be derived in various contexts. They are just examples.
+
+![Pyramids of Humane Technology Details](humanetech-pyramids-breakdown.png)
 
 ### Pyramid of Technology Alignment
 
@@ -56,7 +66,7 @@ Concepts:
 | :---: | :--- | :--- |
 | 1. | **access** | availability, accessability, structure | 
 | 2. | **protection** | rights, regulation, security, privacy, trust | 
-| 3. | **safety** | interaction, communication, behavior, civility |
+| 3. | **safety** | interaction, communication, behavior, civility, inclusiveness, confidence |
 
 ### Pyramid of Wellbeing
 
@@ -67,9 +77,9 @@ Concepts:
 
 | |Level | Topics |
 | :---: | :--- | :--- |
-| 1. | **health** | mental, physical, mindful | 
-| 2. | **harmony** | balance, inter-personal, social, diversity | 
-| 3. | **happiness** | wholesomeness, acceptance, inclusiveness |
+| 1. | **health** | mental, physical, social skills | 
+| 2. | **harmony** | balance, inter-personal, social network, diversity, culture | 
+| 3. | **happiness** | wholesomeness, acceptance, mindfulness |
 
 ### Pyramid of Freedom
 
@@ -81,18 +91,7 @@ Concepts:
 
 | |Level | Topics |
 | :---: | :--- | :--- |
-| 1. | **engagement** | freedom of speech, information and expression | 
+| 1. | **engagement** | participation, freedom of speech, information and expression | 
 | 2. | **expression** | creativity, human values, genuine emotions | 
-| 3. | **flourishing** | purpose, synergy, optimism, confidence, vision, direction |
+| 3. | **flourishing** | purpose, synergy, optimism, vision, direction |
 
----
-
-From here another diagram can be created, showing the four pyramid in detail:
-
-![Pyramids of Humane Technology Details](humanetech-pyramids-of-humane-technology2.png)
-
-## Humane Tech Community overview
-
-All in all this is the complete diagram (1200 x 330 px) that provides the overview:
-
-![Pyramids of Humane Technology Details](humanetech-community-overview.png)
