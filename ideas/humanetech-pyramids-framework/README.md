@@ -1,5 +1,7 @@
 # Humane Tech Community Overview
 
+<br/>
+
 ![Pyramids of Humane Technology](humanetech-community-overview.png)
 
 <br/>
