@@ -94,7 +94,7 @@ Concepts:
 Concepts:
 
 - From access to interaction
-- From protection to savety
+- From protection to safety
 
 | |Level | Concept keywords |
 | :---: | :--- | :--- |
