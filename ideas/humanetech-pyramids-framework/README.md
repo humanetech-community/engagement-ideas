@@ -98,7 +98,7 @@ These categories all have broader meaning, but we consider them as applied to te
 #### Opposing harms
 
 - Possible dark pyramid:
-  - **Pyramid of Devolution** ---> ignorance, stagnation, devolution
+  - **Pyramid of Devolution** ---> ignorance, stagnation, dystopia
 
 ### Pyramid of Society
 
