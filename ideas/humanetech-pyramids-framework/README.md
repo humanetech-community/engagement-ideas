@@ -76,56 +76,110 @@ The following paragraphs provide a breakdown of each of the pyramids into their 
 
 ### Pyramid of Technology Alignment
 
-Concepts:
+- **Process**: From discovery to evolution
 
-- From disruption to sustainable growth
-- From revolution to evolution
-- Technology evolves with humans
-- Technology in service of humanity
-
-| |Level | Concept keywords |
+| | Compliance level | Concepts |
 | :---: | :--- | :--- |
 | 1. | **discovery** | knowledge, insights, humane design | 
 | 2. | **adoption** | ethics, best-practices, experience, exemplars | 
 | 3. | **evolution** | innovation, sustainability, expansion, immersion | 
 
+#### Candidate subcategories
+
+These categories all have broader meaning, but we consider them as applied to tech.
+
+| Subcategory | Description |
+| :--- | :--- |
+| **_Ethics_** | role of ethics in technology, ethics frameworks, ethics design
+| **_Open Standards_** | specifications, standards bodies, resistance to lock-in / walled gardens
+| **_Humane Design_** | human-centered design, UX best-practices, 'designed for humans'
+| **_Decentralization_** | re-decentralize the web, resistance to control / monopolization
+
+#### Opposing harms
+
+- Possible dark pyramid:
+  - **Pyramid of Devolution** ---> ignorance, stagnation, devolution
+
 ### Pyramid of Society
 
-Concepts:
+- **Process**: From access to safety
 
-- From access to interaction
-- From protection to savety
-
-| |Level | Concept keywords |
+| | Compliance level | Concepts |
 | :---: | :--- | :--- |
-| 1. | **access** | availability, accessability, structure | 
-| 2. | **protection** | rights, regulation, security, privacy, trust | 
-| 3. | **safety** | interaction, communication, behavior, civility, inclusiveness, confidence |
+| 1. | **access** | availability, accessibility, structure, transparency, openness, standards | 
+| 2. | **protection** | rights, regulation, compliance, governance, security, privacy, trust | 
+| 3. | **safety** | interaction, communication, behavior, civility, inclusivity, confidence |
+
+#### Candidate subcategories
+
+These categories all have broader meaning, but we consider them as applied to tech.
+
+| Subcategory | Description |
+| :--- | :--- |
+| **_Transparency_** | working in the open with accountability, public domain, open source
+| **_Digital Rights_** | regulations, law and government policies, oversight, watchdogs
+| **_Governance_** | business models, values and policies, audit standards, ethics frameworks
+| **_Privacy_** | control of your personal data, how it spreads and how its used
+| **_Trust_** | information security, regulatory compliance levels, audits, certification, ethics
+| **_Inclusion_** | lowering barriers, minimizing fear, promote participation, empathy
+| **_Civility_** | netiquette, code of conduct, contribution guidelines, moderation, reputation
+
+#### Opposing harms
+
+- Possible dark pyramid:
+  - **Pyramid of Dissolution** ---> exclusion, jeopardy. lawlessness
 
 ### Pyramid of Wellbeing
 
-Concepts:
+- **Process**: From health to happiness
 
-- From health to happiness
-- From acceptance to wholesomeness
-
-| |Level | Concept keywords |
+| | Compliance level | Concepts |
 | :---: | :--- | :--- |
 | 1. | **health** | mental, physical, social skills | 
 | 2. | **harmony** | balance, inter-personal, social network, diversity, culture | 
 | 3. | **happiness** | wholesomeness, acceptance, mindfulness |
 
+#### Candidate subcategories
+
+These categories all have broader meaning, but we consider them as applied to tech.
+
+| Subcategory | Description |
+| :--- | :--- |
+| **_Health_** | improving mental, physical impacts via ergonomy, user-centered / accessibility design
+| **_Parenting_** | responsible tech use, digital literacy, edtech, tech in schools
+| **_Sociability_** | facilitating and stimulating human social / conversational interaction
+| **_Diversity_** | sense of belonging via cultural and emphathetic design, internationalization
+| **_Mindfulness_** | stimulating healthy habits, balanced consumption, time well spent
+
+#### Opposing harms
+
+- Possible dark pyramid:
+  - **Pyramid of Apathy** ---> lethargy, discord, gloom
+
 ### Pyramid of Freedom
 
-Concepts:
+- **Process**: From engagement to flourishing
 
-- From engagement to purpose
-- From expression to flourishing
-- From direction to the future
-
-| |Level | Concept keywords |
+| | Compliance level | Concepts |
 | :---: | :--- | :--- |
-| 1. | **engagement** | participation, freedom of speech, information and expression | 
+| 1. | **engagement** | involvement, freedom of speech / information / expression | 
 | 2. | **expression** | creativity, human values, genuine emotions | 
-| 3. | **flourishing** | purpose, synergy, optimism, vision, direction |
+| 3. | **flourishing** | purpose, synergy, optimism, vision, direction, innovation |
+
+#### Candidate subcategories
+
+These categories all have broader meaning, but we consider them as applied to tech.
+
+| Subcategory | Description |
+| :--- | :--- |
+| **_Collaboration_** | communication, co-creation, cooperation, partnering, synergy
+| **_Growth_** | sustainable business, sustainable growth
+| **_Innovation_** | prudent adoption of technology improvements, innovation models
+| **_Vision_** | visionary ideas, radical new paths, bright insights
+| **_Evolution_** | not revolution / disruption but evolutionary development
+
+#### Opposing harms
+
+- Possible dark pyramid:
+  - **Pyramid of Decline** ---> individualism, suppression. bondage
 
