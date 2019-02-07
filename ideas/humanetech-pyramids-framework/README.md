@@ -94,6 +94,7 @@ These categories all have broader meaning, but we consider them as applied to te
 | **_Open Standards_** | specifications, standards bodies, resistance to lock-in / walled gardens
 | **_Humane Design_** | human-centered design, UX best-practices, 'designed for humans'
 | **_Decentralization_** | re-decentralize the web, resistance to control / monopolization
+| **_Governance_** | business models, values and policies, audit standards, ethics frameworks
 
 #### Opposing harms
 
@@ -118,7 +119,6 @@ These categories all have broader meaning, but we consider them as applied to te
 | :--- | :--- |
 | **_Transparency_** | working in the open with accountability, public domain, open source
 | **_Digital Rights_** | regulations, law and government policies, oversight, watchdogs
-| **_Governance_** | business models, values and policies, audit standards, ethics frameworks
 | **_Privacy_** | control of your personal data, how it spreads and how its used
 | **_Trust_** | information security, regulatory compliance levels, audits, certification, ethics
 | **_Inclusion_** | lowering barriers, minimizing fear, promote participation, empathy
