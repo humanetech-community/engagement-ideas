@@ -78,7 +78,7 @@ The following paragraphs provide a breakdown of each of the pyramids into their 
 
 - **Process**: From discovery to evolution
 
-| | Compliance level | Concepts |
+| | Adoption level | Concepts |
 | :---: | :--- | :--- |
 | 1. | **discovery** | knowledge, insights, humane design | 
 | 2. | **adoption** | ethics, best-practices, experience, exemplars | 
@@ -90,11 +90,13 @@ These categories all have broader meaning, but we consider them as applied to te
 
 | Subcategory | Description |
 | :--- | :--- |
-| **_Ethics_** | role of ethics in technology, ethics frameworks, ethics design
+| **_Ethics_** | improving of ethics in technology, ethics frameworks, ethical design
 | **_Open Standards_** | specifications, standards bodies, resistance to lock-in / walled gardens
 | **_Humane Design_** | human-centered design, UX best-practices, 'designed for humans'
 | **_Decentralization_** | re-decentralize the web, resistance to control / monopolization
-| **_Governance_** | business models, values and policies, audit standards, ethics frameworks
+| **_Sustainable Business_** | alternative business models, funding, values and policies
+| **_Open Source_** | working in the open, project / community management, licensing, funding
+| **_Governance_** | IT strategy and goals, risk, compliance / certification / audit standards
 
 #### Opposing harms
 
@@ -105,10 +107,10 @@ These categories all have broader meaning, but we consider them as applied to te
 
 - **Process**: From access to safety
 
-| | Compliance level | Concepts |
+| | Adoption level | Concepts |
 | :---: | :--- | :--- |
 | 1. | **access** | availability, accessibility, structure, transparency, openness, standards | 
-| 2. | **protection** | rights, regulation, compliance, governance, security, privacy, trust | 
+| 2. | **protection** | rights, law and regulation, governance, security, privacy, trust | 
 | 3. | **safety** | interaction, communication, behavior, civility, inclusivity, confidence |
 
 #### Candidate subcategories
@@ -133,7 +135,7 @@ These categories all have broader meaning, but we consider them as applied to te
 
 - **Process**: From health to happiness
 
-| | Compliance level | Concepts |
+| | Adoption level | Concepts |
 | :---: | :--- | :--- |
 | 1. | **health** | mental, physical, social skills | 
 | 2. | **harmony** | balance, inter-personal, social network, diversity, culture | 
@@ -160,7 +162,7 @@ These categories all have broader meaning, but we consider them as applied to te
 
 - **Process**: From engagement to flourishing
 
-| | Compliance level | Concepts |
+| | Adoption level | Concepts |
 | :---: | :--- | :--- |
 | 1. | **engagement** | involvement, freedom of speech / information / expression | 
 | 2. | **expression** | creativity, human values, genuine emotions | 
