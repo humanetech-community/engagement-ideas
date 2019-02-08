@@ -177,7 +177,6 @@ These categories all have broader meaning, but we consider them as applied to te
 | **_Collaboration_** | communication, co-creation, cooperation, partnering, synergy
 | **_Growth_** | sustainable business, sustainable growth
 | **_Innovation_** | prudent adoption of technology improvements, innovation models
-| **_Vision_** | visionary ideas, radical new paths, bright insights
 | **_Evolution_** | not revolution / disruption but evolutionary development
 
 #### Opposing harms
