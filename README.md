@@ -1,4 +1,4 @@
-# The Center for Humane Technology
+# Humane Tech Community
 
 ## Project for Community Building
 
