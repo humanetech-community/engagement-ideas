@@ -30,7 +30,7 @@ This Code of Conduct applies within all project spaces, and it also applies when
 
 ### Enforcement
 
-In order to maintain our community, moderators reserve the right to remove any content and any user account for any reason at any time.
+In order to maintain our community, moderators reserve the right to remove any content and any user account if content/account does not agree with this code of conduct.
 
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 
