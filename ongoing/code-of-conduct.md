@@ -30,13 +30,15 @@ Some external contributions from:
 
 - **When you see bad behavior, don’t reply**. It encourages the bad behavior by acknowledging it and consumes your energy and time. Just flag it. If enough flags accrue, action will be taken, either automatically or by moderator intervention.
 
-- Nothing sabotages a healthy conversation like rudeness:
+- Nothing sabotages a healthy conversation like rudeness or overstepping boundaries:
   - Be civil. Don’t post anything that a reasonable person would consider offensive, abusive, or hate speech.
   - Keep it clean. Don’t post anything obscene or sexually explicit.
   - **Respect each other**. Don’t harass or grief anyone, impersonate people, or expose their private information.
-  - Respect our forum. Don’t post spam or otherwise vandalize the forum.
-    
-- Private messages are designed to facilitate understanding of forum topics and not to compromise members in any way. If you aren’t sure if your message is appropriate, check with a moderator first.
+  - Keep in mind that private messages are designed to facilitate understanding of forum topics and not to compromise members in any way. If you aren’t sure if your message is appropriate, check with a moderator first.
+
+- Respect our forum. 
+  - Don’t post spam or otherwise vandalize the forum.
+  - Don't post political content. Bots and trolls look for political content on the Web and can cause harm to the forum. Instead, focus on the general issue or topic underneath that specific political event or process. 
 
 - Any post or private message that represents a harm, harassment or any other damage for the recipients, any other member, or the whole forum will be removed and its author privately contacted, suspended, or blocked, depending on gravity and frequency of the posted content.
  
