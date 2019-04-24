@@ -28,7 +28,7 @@ This message is contained the forum announcement:
 
 >**Welcome to Humane Tech Community!**    We promote  [_Embracing of Humane Technology So That Humans Can Flourish And Humanity Can Thrive._](https://community.humanetech.com/t/3322)
 
-## Pyramids of Humane Technology model
+## The Pyramids of Humane Technology™
 
 ### Overview
 
