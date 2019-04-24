@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![Humane Tech Community](https://github.com/humanetech-community/humanetech-community-artwork/raw/master/community-artwork/humanetech-pyramids/humane-tech-community-overview.png)](https://community.humanetech.com)
+[![Humane Tech Community](https://github.com/humanetech-community/humanetech-community-artwork/raw/master/humanetech-pyramids/humane-tech-community-overview.png)](https://community.humanetech.com)
 
 <br/>
 
